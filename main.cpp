@@ -14,8 +14,8 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    int x;
-    int y;
+    long long x;
+    long long y;
     cout << "Choose a Number" << endl;
     cin >> x;
     //Formula
